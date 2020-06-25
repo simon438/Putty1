@@ -1,0 +1,2 @@
+Make a Road and buildings in our stories Galleries should not move in our launch
+
